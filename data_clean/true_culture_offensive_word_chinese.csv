@@ -1,0 +1,268 @@
+,culture,word_category,word,human_label_1,human_label_2,human_label_3,gold_label
+0,Chinese,noun.act,Insulting symbols,1.0,1.0,1.0,1.0
+1,Chinese,noun.act,Disrespecting elders,1.0,1.0,1.0,1.0
+2,Chinese,noun.act,Public nudity,1.0,1.0,1.0,1.0
+3,Chinese,noun.act,Littering,1.0,1.0,1.0,1.0
+4,Chinese,noun.act,Spitting,0.0,1.0,1.0,1.0
+5,Chinese,noun.act,Cutting in line,1.0,1.0,1.0,1.0
+6,Chinese,noun.act,Staring,0.0,1.0,1.0,1.0
+7,Chinese,noun.act,Loud talking,1.0,,1.0,1.0
+8,Chinese,noun.act,Pointing fingers,1.0,1.0,1.0,1.0
+9,Chinese,noun.act,Making racist remarks,0.0,1.0,1.0,1.0
+11,Chinese,noun.animal,Monkey,1.0,0.0,1.0,1.0
+13,Chinese,noun.animal,Dog,1.0,1.0,1.0,1.0
+16,Chinese,noun.animal,Snake,1.0,0.0,1.0,1.0
+20,Chinese,noun.artifact,Opium,1.0,1.0,0.0,1.0
+22,Chinese,noun.artifact,Japanese War Crimes,1.0,1.0,1.0,1.0
+23,Chinese,noun.artifact,Cultural Revolution,1.0,,1.0,1.0
+24,Chinese,noun.artifact,Tibetan Independence,1.0,,1.0,1.0
+25,Chinese,noun.artifact,Falun Gong,1.0,1.0,0.0,1.0
+26,Chinese,noun.artifact,Tiananmen Square Massacre,1.0,1.0,1.0,1.0
+29,Chinese,noun.artifact,Uighur Genocide,1.0,1.0,1.0,1.0
+30,Chinese,noun.attribute,Create brands or products using the number 4,1.0,1.0,1.0,1.0
+31,Chinese,noun.attribute,Being disrespectful towards elders,1.0,1.0,1.0,1.0
+32,Chinese,noun.attribute,Strong body odor,1.0,1.0,1.0,1.0
+33,Chinese,noun.attribute,Not removing shoes before entering a home,,,1.0,1.0
+34,Chinese,noun.attribute,Talking loudly in public places,1.0,1.0,1.0,1.0
+35,Chinese,noun.attribute,Making negative comments about China,1.0,1.0,1.0,1.0
+37,Chinese,noun.attribute,Pointing with one's finger,1.0,1.0,1.0,1.0
+39,Chinese,noun.attribute,Not following traditional etiquette in business meetings,1.0,1.0,1.0,1.0
+41,Chinese,noun.body,Tattoos,1.0,1.0,0.0,1.0
+54,Chinese,noun.cognition,Falun Gong,1.0,1.0,0.0,1.0
+60,Chinese,noun.communication,Insults,1.0,1.0,1.0,1.0
+61,Chinese,noun.communication,Profanity,0.0,1.0,1.0,1.0
+62,Chinese,noun.communication,Disrespect,1.0,1.0,1.0,1.0
+63,Chinese,noun.communication,Racism,,1.0,1.0,1.0
+64,Chinese,noun.communication,Discrimination,1.0,1.0,1.0,1.0
+65,Chinese,noun.communication,Vulgarity,1.0,1.0,1.0,1.0
+66,Chinese,noun.communication,Slurs,,1.0,1.0,1.0
+67,Chinese,noun.communication,Sarcasm,0.0,1.0,1.0,1.0
+78,Chinese,noun.event,Falun Gong,1.0,1.0,0.0,1.0
+79,Chinese,noun.event,Cultural Revolution,1.0,,1.0,1.0
+80,Chinese,noun.feeling,Disrespect,0.0,1.0,1.0,1.0
+81,Chinese,noun.feeling,Discrimination,0.0,1.0,1.0,1.0
+82,Chinese,noun.feeling,Injustice,0.0,1.0,1.0,1.0
+84,Chinese,noun.feeling,Insult,1.0,1.0,1.0,1.0
+85,Chinese,noun.feeling,Betrayal,1.0,1.0,1.0,1.0
+86,Chinese,noun.feeling,Envy,1.0,1.0,1.0,1.0
+87,Chinese,noun.feeling,Shame,0.0,1.0,1.0,1.0
+90,Chinese,noun.food,Dog meat,1.0,1.0,1.0,1.0
+99,Chinese,noun.food,Shark fin soup,1.0,0.0,1.0,1.0
+100,Chinese,noun.group,Taiwanese independence activists,1.0,1.0,1.0,1.0
+101,Chinese,noun.group,Tibet independence activists,1.0,1.0,1.0,1.0
+102,Chinese,noun.group,Uighur separatists,1.0,1.0,1.0,1.0
+103,Chinese,noun.group,Falun Gong practitioners,1.0,1.0,0.0,1.0
+104,Chinese,noun.group,Pro-democracy protesters,1.0,0.0,1.0,1.0
+105,Chinese,noun.group,Pro-Taiwan government officials,1.0,1.0,1.0,1.0
+106,Chinese,noun.group,Japanese nationalist groups,1.0,1.0,1.0,1.0
+107,Chinese,noun.group,Western media outlets,1.0,1.0,1.0,1.0
+108,Chinese,noun.group,Religious groups critical of Chinese government,1.0,1.0,1.0,1.0
+109,Chinese,noun.group,Hong Kong democracy activists,1.0,1.0,1.0,1.0
+118,Chinese,noun.location,Falun Gong,1.0,1.0,0.0,1.0
+120,Chinese,noun.motive,Racism,1.0,1.0,1.0,1.0
+121,Chinese,noun.motive,Discrimination,0.0,1.0,1.0,1.0
+122,Chinese,noun.motive,Insult,0.0,1.0,1.0,1.0
+123,Chinese,noun.motive,Stereotyping,1.0,1.0,1.0,1.0
+124,Chinese,noun.motive,Prejudice,0.0,1.0,1.0,1.0
+125,Chinese,noun.motive,Disrespect,0.0,1.0,1.0,1.0
+126,Chinese,noun.motive,Hate,0.0,1.0,1.0,1.0
+127,Chinese,noun.motive,Ignorance,1.0,1.0,1.0,1.0
+128,Chinese,noun.motive,Contempt,0.0,1.0,1.0,1.0
+129,Chinese,noun.motive,Violence,1.0,1.0,1.0,1.0
+130,Chinese,noun.object,Japanese flag,1.0,1.0,1.0,1.0
+135,Chinese,noun.object,Winnie the Pooh,1.0,1.0,0.0,1.0
+137,Chinese,noun.object,Falun Gong,1.0,1.0,0.0,1.0
+138,Chinese,noun.object,Online censorship,1.0,1.0,1.0,1.0
+140,Chinese,noun.person,Insult,1.0,1.0,1.0,1.0
+141,Chinese,noun.person,Racist,1.0,1.0,1.0,1.0
+142,Chinese,noun.person,Ignorant,1.0,1.0,1.0,1.0
+143,Chinese,noun.person,Stereotype,1.0,1.0,1.0,1.0
+144,Chinese,noun.person,Offensive,1.0,1.0,1.0,1.0
+145,Chinese,noun.person,Disrespectful,0.0,1.0,1.0,1.0
+146,Chinese,noun.person,Discriminatory,1.0,1.0,1.0,1.0
+147,Chinese,noun.person,Bigoted,0.0,1.0,1.0,1.0
+148,Chinese,noun.person,Prejudiced,0.0,1.0,1.0,1.0
+149,Chinese,noun.person,Xenophobic,1.0,1.0,1.0,1.0
+153,Chinese,noun.phenomenon,Falun Gong,1.0,1.0,1.0,1.0
+159,Chinese,noun.phenomenon,Cultural Revolution,1.0,1.0,1.0,1.0
+176,Chinese,noun.possession,Green Hat,1.0,1.0,1.0,1.0
+177,Chinese,noun.possession,Number 4,1.0,1.0,1.0,1.0
+178,Chinese,noun.possession,White Flowers,1.0,1.0,1.0,1.0
+180,Chinese,noun.process,Cultural appropriation,1.0,1.0,1.0,1.0
+181,Chinese,noun.process,Discrimination,1.0,1.0,1.0,1.0
+182,Chinese,noun.process,Pollution,1.0,1.0,1.0,1.0
+183,Chinese,noun.process,Invading Taiwan,1.0,1.0,1.0,1.0
+184,Chinese,noun.process,Surveillance,1.0,1.0,1.0,1.0
+185,Chinese,noun.process,Animal cruelty,1.0,1.0,1.0,1.0
+186,Chinese,noun.process,Corruption,1.0,1.0,1.0,1.0
+187,Chinese,noun.process,Disrespect,1.0,1.0,1.0,1.0
+188,Chinese,noun.process,Censorship,1.0,1.0,1.0,1.0
+189,Chinese,noun.process,Human rights violations,1.0,1.0,1.0,1.0
+190,Chinese,noun.quantity,Loss of face,1.0,,1.0,1.0
+191,Chinese,noun.quantity,Betrayal,1.0,,1.0,1.0
+192,Chinese,noun.quantity,Disrespect,1.0,,1.0,1.0
+193,Chinese,noun.quantity,Rudeness,1.0,,1.0,1.0
+194,Chinese,noun.quantity,Shame,1.0,,1.0,1.0
+195,Chinese,noun.quantity,Corruption,1.0,,1.0,1.0
+196,Chinese,noun.quantity,Dishonor,1.0,,1.0,1.0
+197,Chinese,noun.quantity,Scandal,1.0,,1.0,1.0
+198,Chinese,noun.quantity,Injustice,1.0,,1.0,1.0
+199,Chinese,noun.quantity,Discrimination,1.0,,1.0,1.0
+200,Chinese,noun.relation,Taiwan,1.0,1.0,1.0,1.0
+201,Chinese,noun.relation,Tibet,1.0,1.0,,1.0
+202,Chinese,noun.relation,Falun Gong,1.0,,,1.0
+203,Chinese,noun.relation,Tiananmen Square,1.0,,,1.0
+221,Chinese,noun.state,Taiwan,1.0,1.0,1.0,1.0
+222,Chinese,noun.state,Tibet,1.0,0.0,1.0,1.0
+224,Chinese,noun.state,Hong Kong,1.0,0.0,1.0,1.0
+225,Chinese,noun.state,Uighurs,1.0,0.0,1.0,1.0
+226,Chinese,noun.state,Xinjiang,1.0,0.0,1.0,1.0
+227,Chinese,noun.state,CCP,1.0,,1.0,1.0
+228,Chinese,noun.state,Democracy,1.0,1.0,1.0,1.0
+229,Chinese,noun.state,Falun Gong,1.0,1.0,1.0,1.0
+233,Chinese,noun.substance,Drugs,1.0,1.0,1.0,1.0
+234,Chinese,noun.substance,Gambling,1.0,1.0,1.0,1.0
+235,Chinese,noun.substance,Tobacco,1.0,1.0,1.0,1.0
+236,Chinese,noun.substance,Dog meat,1.0,0.0,1.0,1.0
+237,Chinese,noun.substance,Pornography,1.0,1.0,1.0,1.0
+238,Chinese,noun.substance,Fake goods,1.0,1.0,0.0,1.0
+239,Chinese,noun.substance,Pollution,1.0,1.0,0.0,1.0
+240,Chinese,noun.time,Being late,0.0,1.0,1.0,1.0
+241,Chinese,noun.time,Tardiness,1.0,1.0,1.0,1.0
+242,Chinese,noun.time,Rudeness,1.0,1.0,1.0,1.0
+243,Chinese,noun.time,Disrespect,1.0,1.0,1.0,1.0
+244,Chinese,noun.time,Insensitivity,0.0,1.0,1.0,1.0
+245,Chinese,noun.time,Ignorance,1.0,1.0,1.0,1.0
+246,Chinese,noun.time,Arrogance,1.0,1.0,1.0,1.0
+247,Chinese,noun.time,Discrimination,1.0,1.0,1.0,1.0
+248,Chinese,noun.time,Aggression,1.0,,1.0,1.0
+249,Chinese,noun.time,Vulgarity,1.0,1.0,1.0,1.0
+250,Chinese,verb.body,Point,1.0,1.0,1.0,1.0
+251,Chinese,verb.body,Insult,1.0,1.0,1.0,1.0
+252,Chinese,verb.body,Violate,1.0,1.0,1.0,1.0
+253,Chinese,verb.body,Humiliate,1.0,1.0,1.0,1.0
+254,Chinese,verb.body,Disrespect,1.0,1.0,1.0,1.0
+255,Chinese,verb.body,Taunt,1.0,1.0,1.0,1.0
+256,Chinese,verb.body,Overstep,1.0,1.0,1.0,1.0
+257,Chinese,verb.body,Criticize,1.0,1.0,1.0,1.0
+258,Chinese,verb.body,Intrude,1.0,1.0,1.0,1.0
+259,Chinese,verb.body,Degrade,1.0,1.0,1.0,1.0
+260,Chinese,verb.change,Disrespecting,1.0,1.0,1.0,1.0
+261,Chinese,verb.change,Insulting,1.0,1.0,1.0,1.0
+262,Chinese,verb.change,Disregarding,1.0,1.0,1.0,1.0
+263,Chinese,verb.change,Humiliating,1.0,1.0,1.0,1.0
+264,Chinese,verb.change,Discriminating,1.0,1.0,1.0,1.0
+265,Chinese,verb.change,Defaming,1.0,1.0,1.0,1.0
+266,Chinese,verb.change,Belittling,1.0,1.0,1.0,1.0
+267,Chinese,verb.change,Marginalizing,1.0,1.0,1.0,1.0
+268,Chinese,verb.change,Disparaging,1.0,1.0,1.0,1.0
+269,Chinese,verb.change,Dismissing,0.0,1.0,1.0,1.0
+270,Chinese,verb.cognition,criticize,1.0,1.0,1.0,1.0
+271,Chinese,verb.cognition,insult,1.0,1.0,1.0,1.0
+272,Chinese,verb.cognition,demean,1.0,1.0,1.0,1.0
+273,Chinese,verb.cognition,belittle,1.0,1.0,1.0,1.0
+274,Chinese,verb.cognition,mock,1.0,,1.0,1.0
+275,Chinese,verb.cognition,ridicule,1.0,1.0,1.0,1.0
+276,Chinese,verb.cognition,disparage,1.0,1.0,1.0,1.0
+277,Chinese,verb.cognition,degrade,1.0,1.0,1.0,1.0
+278,Chinese,verb.cognition,slander,1.0,1.0,1.0,1.0
+279,Chinese,verb.cognition,vilify,1.0,1.0,1.0,1.0
+280,Chinese,verb.communication,Insult,1.0,1.0,1.0,1.0
+281,Chinese,verb.communication,Discriminate,1.0,1.0,1.0,1.0
+282,Chinese,verb.communication,Belittle,1.0,1.0,1.0,1.0
+283,Chinese,verb.communication,Mock,1.0,1.0,1.0,1.0
+284,Chinese,verb.communication,Disrespect,1.0,1.0,1.0,1.0
+285,Chinese,verb.communication,Humiliate,1.0,1.0,1.0,1.0
+286,Chinese,verb.communication,Criticize,1.0,1.0,1.0,1.0
+287,Chinese,verb.communication,Disparage,1.0,1.0,1.0,1.0
+288,Chinese,verb.communication,Condescend,1.0,1.0,1.0,1.0
+289,Chinese,verb.communication,Demean,1.0,1.0,1.0,1.0
+290,Chinese,verb.competition,Mock,1.0,,1.0,1.0
+291,Chinese,verb.competition,Ridicule,1.0,,1.0,1.0
+292,Chinese,verb.competition,Insult,1.0,,1.0,1.0
+293,Chinese,verb.competition,Belittle,1.0,,1.0,1.0
+294,Chinese,verb.competition,Demean,1.0,,1.0,1.0
+295,Chinese,verb.competition,Disparage,1.0,,1.0,1.0
+296,Chinese,verb.competition,Condescend,1.0,,1.0,1.0
+297,Chinese,verb.competition,Humiliate,1.0,,1.0,1.0
+298,Chinese,verb.competition,Denigrate,1.0,,1.0,1.0
+299,Chinese,verb.competition,Offend,1.0,,1.0,1.0
+300,Chinese,verb.consumption,Waste,1.0,1.0,1.0,1.0
+301,Chinese,verb.consumption,Overindulge,1.0,1.0,1.0,1.0
+302,Chinese,verb.consumption,Squander,1.0,1.0,1.0,1.0
+303,Chinese,verb.consumption,Misuse,1.0,1.0,1.0,1.0
+305,Chinese,verb.consumption,Abuse,1.0,1.0,1.0,1.0
+306,Chinese,verb.consumption,Pollute,1.0,1.0,1.0,1.0
+307,Chinese,verb.consumption,Exploit,1.0,1.0,0.0,1.0
+308,Chinese,verb.consumption,Discriminate,1.0,,1.0,1.0
+309,Chinese,verb.consumption,Defraud,1.0,,1.0,1.0
+311,Chinese,verb.contact,Pointing,1.0,1.0,1.0,1.0
+312,Chinese,verb.contact,Spitting,1.0,1.0,1.0,1.0
+314,Chinese,verb.contact,Shoving,1.0,1.0,0.0,1.0
+315,Chinese,verb.contact,Insulting,1.0,,1.0,1.0
+316,Chinese,verb.contact,Ignoring,1.0,1.0,1.0,1.0
+317,Chinese,verb.contact,Yelling,1.0,,1.0,1.0
+318,Chinese,verb.contact,Cursing,1.0,1.0,1.0,1.0
+319,Chinese,verb.contact,Invading,1.0,1.0,1.0,1.0
+320,Chinese,verb.creation,Mock,0.0,1.0,1.0,1.0
+321,Chinese,verb.creation,Ridicule,0.0,1.0,1.0,1.0
+322,Chinese,verb.creation,Insult,0.0,1.0,1.0,1.0
+323,Chinese,verb.creation,Disparage,1.0,1.0,1.0,1.0
+324,Chinese,verb.creation,Degrade,1.0,1.0,1.0,1.0
+325,Chinese,verb.creation,Belittle,1.0,1.0,1.0,1.0
+326,Chinese,verb.creation,Denigrate,1.0,1.0,1.0,1.0
+327,Chinese,verb.creation,Defame,1.0,1.0,1.0,1.0
+328,Chinese,verb.creation,Humiliate,1.0,1.0,1.0,1.0
+329,Chinese,verb.creation,Debase,1.0,1.0,,1.0
+330,Chinese,verb.emotion,Insult,1.0,1.0,1.0,1.0
+331,Chinese,verb.emotion,Anger,1.0,1.0,0.0,1.0
+332,Chinese,verb.emotion,Offend,1.0,1.0,0.0,1.0
+333,Chinese,verb.emotion,Wound,1.0,1.0,0.0,1.0
+334,Chinese,verb.emotion,Disrespect,1.0,1.0,1.0,1.0
+335,Chinese,verb.emotion,Enrage,1.0,1.0,0.0,1.0
+336,Chinese,verb.emotion,Hurt,1.0,1.0,1.0,1.0
+338,Chinese,verb.emotion,Frustrate,1.0,1.0,1.0,1.0
+339,Chinese,verb.emotion,Disturb,1.0,1.0,0.0,1.0
+340,Chinese,verb.motion,spitting,0.0,1.0,1.0,1.0
+341,Chinese,verb.motion,pointing,1.0,1.0,1.0,1.0
+344,Chinese,verb.motion,blowing nose,1.0,1.0,0.0,1.0
+345,Chinese,verb.motion,displaying sole of shoe,1.0,1.0,0.0,1.0
+346,Chinese,verb.motion,slapping,1.0,1.0,1.0,1.0
+347,Chinese,verb.motion,crossing arms,1.0,0.0,1.0,1.0
+350,Chinese,verb.perception,Discriminate,1.0,1.0,1.0,1.0
+351,Chinese,verb.perception,insult,1.0,1.0,1.0,1.0
+352,Chinese,verb.perception,belittle,1.0,1.0,1.0,1.0
+353,Chinese,verb.perception,mock,1.0,1.0,1.0,1.0
+354,Chinese,verb.perception,degrade,1.0,1.0,1.0,1.0
+355,Chinese,verb.perception,stereotype,1.0,1.0,1.0,1.0
+356,Chinese,verb.perception,ridicule,1.0,1.0,1.0,1.0
+357,Chinese,verb.perception,criticize,1.0,1.0,0.0,1.0
+358,Chinese,verb.perception,disparage,1.0,1.0,1.0,1.0
+360,Chinese,verb.possession,Disrespect,1.0,1.0,1.0,1.0
+361,Chinese,verb.possession,Insult,1.0,,1.0,1.0
+362,Chinese,verb.possession,Deface,1.0,1.0,1.0,1.0
+363,Chinese,verb.possession,Destroy,1.0,1.0,1.0,1.0
+364,Chinese,verb.possession,Disparage,1.0,,1.0,1.0
+365,Chinese,verb.possession,Defame,1.0,1.0,1.0,1.0
+366,Chinese,verb.possession,Disregard,1.0,1.0,1.0,1.0
+367,Chinese,verb.possession,Undermine,1.0,,1.0,1.0
+368,Chinese,verb.possession,Degrade,1.0,,1.0,1.0
+369,Chinese,verb.possession,Disregard,1.0,1.0,1.0,1.0
+370,Chinese,verb.social,Criticize,1.0,1.0,0.0,1.0
+371,Chinese,verb.social,Mock,1.0,1.0,1.0,1.0
+372,Chinese,verb.social,Insult,1.0,1.0,1.0,1.0
+373,Chinese,verb.social,Disrespect,1.0,1.0,1.0,1.0
+374,Chinese,verb.social,Disparage,1.0,1.0,1.0,1.0
+375,Chinese,verb.social,Humiliate,1.0,1.0,1.0,1.0
+376,Chinese,verb.social,Ridicule,1.0,1.0,1.0,1.0
+377,Chinese,verb.social,Belittle,1.0,1.0,1.0,1.0
+378,Chinese,verb.social,Offend,1.0,1.0,1.0,1.0
+379,Chinese,verb.social,Discriminate,1.0,1.0,1.0,1.0
+381,Chinese,verb.stative,insult,1.0,,1.0,1.0
+385,Chinese,verb.stative,exploit,1.0,1.0,1.0,1.0
+386,Chinese,verb.stative,oppress,0.0,1.0,1.0,1.0
+387,Chinese,verb.stative,belittle,1.0,1.0,1.0,1.0
+388,Chinese,verb.stative,ridicule,1.0,1.0,1.0,1.0
+389,Chinese,verb.stative,offend,1.0,1.0,1.0,1.0
+397,Chinese,verb.weather,Drought,1.0,1.0,0.0,1.0
+398,Chinese,verb.weather,Blister,1.0,0.0,1.0,1.0

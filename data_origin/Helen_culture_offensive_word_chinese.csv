@@ -1,0 +1,401 @@
+culture,word_category,word,Annotation
+Chinese,noun.act,Insulting symbols,1
+Chinese,noun.act,Disrespecting elders,1
+Chinese,noun.act,Public nudity,1
+Chinese,noun.act,Littering,1
+Chinese,noun.act,Spitting,1
+Chinese,noun.act,Cutting in line,1
+Chinese,noun.act,Staring,1
+Chinese,noun.act,Loud talking,1
+Chinese,noun.act,Pointing fingers,1
+Chinese,noun.act,Making racist remarks,1
+Chinese,noun.animal,Panda,0
+Chinese,noun.animal,Monkey,1
+Chinese,noun.animal,Tiger,0
+Chinese,noun.animal,Dog,1
+Chinese,noun.animal,Cat,0
+Chinese,noun.animal,Rat,1
+Chinese,noun.animal,Snake,1
+Chinese,noun.animal,Horse,0
+Chinese,noun.animal,Rooster,1
+Chinese,noun.animal,Goat,0
+Chinese,noun.artifact,Opium,0
+Chinese,noun.artifact,Manchu Queue,0
+Chinese,noun.artifact,Japanese War Crimes,1
+Chinese,noun.artifact,Cultural Revolution,1
+Chinese,noun.artifact,Tibetan Independence,1
+Chinese,noun.artifact,Falun Gong,0
+Chinese,noun.artifact,Tiananmen Square Massacre,1
+Chinese,noun.artifact,Tibet,0
+Chinese,noun.artifact,South China Sea,0
+Chinese,noun.artifact,Uighur Genocide,1
+Chinese,noun.attribute,Create brands or products using the number 4,1
+Chinese,noun.attribute,Being disrespectful towards elders,1
+Chinese,noun.attribute,Strong body odor,1
+Chinese,noun.attribute,Not removing shoes before entering a home,1
+Chinese,noun.attribute,Talking loudly in public places,1
+Chinese,noun.attribute,Making negative comments about China,1
+Chinese,noun.attribute,Wasting food,0
+Chinese,noun.attribute,Pointing with one's finger,1
+Chinese,noun.attribute,Eating or drinking in public transportation,1
+Chinese,noun.attribute,Not following traditional etiquette in business meetings,1
+Chinese,noun.body,Feet,0
+Chinese,noun.body,Tattoos,0
+Chinese,noun.body,Thighs,0
+Chinese,noun.body,Armpits,1
+Chinese,noun.body,Shoulders,0
+Chinese,noun.body,Back,0
+Chinese,noun.body,Chest,0
+Chinese,noun.body,Stomach,0
+Chinese,noun.body,Hands,0
+Chinese,noun.body,Ears,0
+Chinese,noun.cognition,Taiwan,0
+Chinese,noun.cognition,Tiananmen Square,0
+Chinese,noun.cognition,Tibet,0
+Chinese,noun.cognition,Uyghurs,0
+Chinese,noun.cognition,Falun Gong,0
+Chinese,noun.cognition,Dalai Lama,0
+Chinese,noun.cognition,Xinjiang,0
+Chinese,noun.cognition,Hong Kong,0
+Chinese,noun.cognition,Mao Zedong,0
+Chinese,noun.cognition,South China Sea,0
+Chinese,noun.communication,Insults,1
+Chinese,noun.communication,Profanity,1
+Chinese,noun.communication,Disrespect,1
+Chinese,noun.communication,Racism,1
+Chinese,noun.communication,Discrimination,1
+Chinese,noun.communication,Vulgarity,1
+Chinese,noun.communication,Slurs,1
+Chinese,noun.communication,Sarcasm,1
+Chinese,noun.communication,Blasphemy,0
+Chinese,noun.communication,Mockery,0
+Chinese,noun.event,Taiwan,0
+Chinese,noun.event,Tibet,0
+Chinese,noun.event,Uighurs,0
+Chinese,noun.event,Hong Kong,0
+Chinese,noun.event,Dalai Lama,0
+Chinese,noun.event,Tiananmen Square,0
+Chinese,noun.event,South China Sea,0
+Chinese,noun.event,Xinjiang,0
+Chinese,noun.event,Falun Gong,0
+Chinese,noun.event,Cultural Revolution,1
+Chinese,noun.feeling,Disrespect,1
+Chinese,noun.feeling,Discrimination,1
+Chinese,noun.feeling,Injustice,1
+Chinese,noun.feeling,Failure,0
+Chinese,noun.feeling,Insult,1
+Chinese,noun.feeling,Betrayal,1
+Chinese,noun.feeling,Envy,1
+Chinese,noun.feeling,Shame,1
+Chinese,noun.feeling,Anger,0
+Chinese,noun.feeling,Disappointment,0
+Chinese,noun.food,Dog meat,1
+Chinese,noun.food,Stinky tofu,0
+Chinese,noun.food,Duck blood soup,0
+Chinese,noun.food,Century egg,0
+Chinese,noun.food,Chicken feet,0
+Chinese,noun.food,Balut,0
+Chinese,noun.food,Durian,0
+Chinese,noun.food,Jellyfish,0
+Chinese,noun.food,Fried scorpion,0
+Chinese,noun.food,Shark fin soup,1
+Chinese,noun.group,Taiwanese independence activists,1
+Chinese,noun.group,Tibet independence activists,1
+Chinese,noun.group,Uighur separatists,1
+Chinese,noun.group,Falun Gong practitioners,0
+Chinese,noun.group,Pro-democracy protesters,1
+Chinese,noun.group,Pro-Taiwan government officials,1
+Chinese,noun.group,Japanese nationalist groups,1
+Chinese,noun.group,Western media outlets,1
+Chinese,noun.group,Religious groups critical of Chinese government,1
+Chinese,noun.group,Hong Kong democracy activists,1
+Chinese,noun.location,Tibet,0
+Chinese,noun.location,Tiananmen Square,0
+Chinese,noun.location,Taiwan,0
+Chinese,noun.location,Xinjiang,0
+Chinese,noun.location,Dalai Lama,0
+Chinese,noun.location,Uyghur,0
+Chinese,noun.location,Hong Kong,0
+Chinese,noun.location,South China Sea,0
+Chinese,noun.location,Falun Gong,0
+Chinese,noun.location,Taiwan Strait,0
+Chinese,noun.motive,Racism,1
+Chinese,noun.motive,Discrimination,1
+Chinese,noun.motive,Insult,1
+Chinese,noun.motive,Stereotyping,1
+Chinese,noun.motive,Prejudice,1
+Chinese,noun.motive,Disrespect,1
+Chinese,noun.motive,Hate,1
+Chinese,noun.motive,Ignorance,1
+Chinese,noun.motive,Contempt,1
+Chinese,noun.motive,Violence,1
+Chinese,noun.object,Japanese flag,1
+Chinese,noun.object,Dalai Lama,na
+Chinese,noun.object,Taiwan,0
+Chinese,noun.object,Tenzin Gyatso,na
+Chinese,noun.object,Tiananmen Square,0
+Chinese,noun.object,Winnie the Pooh,0
+Chinese,noun.object,Tibet,0
+Chinese,noun.object,Falun Gong,0
+Chinese,noun.object,Online censorship,1
+Chinese,noun.object,South China Sea,0
+Chinese,noun.person,Insult,1
+Chinese,noun.person,Racist,1
+Chinese,noun.person,Ignorant,1
+Chinese,noun.person,Stereotype,1
+Chinese,noun.person,Offensive,1
+Chinese,noun.person,Disrespectful,1
+Chinese,noun.person,Discriminatory,1
+Chinese,noun.person,Bigoted,1
+Chinese,noun.person,Prejudiced,1
+Chinese,noun.person,Xenophobic,1
+Chinese,noun.phenomenon,Taiwan,0
+Chinese,noun.phenomenon,Tibet,0
+Chinese,noun.phenomenon,Tiananmen Square,0
+Chinese,noun.phenomenon,Falun Gong,1
+Chinese,noun.phenomenon,Dalai Lama,0
+Chinese,noun.phenomenon,Uighur,0
+Chinese,noun.phenomenon,Hong Kong,0
+Chinese,noun.phenomenon,South China Sea,0
+Chinese,noun.phenomenon,Senkaku Islands,0
+Chinese,noun.phenomenon,Cultural Revolution,1
+Chinese,noun.plant,Four-leaf clover,0
+Chinese,noun.plant,Black rose,0
+Chinese,noun.plant,Cacti,0
+Chinese,noun.plant,Aloe vera,0
+Chinese,noun.plant,Mint,0
+Chinese,noun.plant,Lavender,0
+Chinese,noun.plant,Dandelion,0
+Chinese,noun.plant,Bamboo,0
+Chinese,noun.plant,Orchid,0
+Chinese,noun.plant,Chrysanthemum,0
+Chinese,noun.possession,Clock,1
+Chinese,noun.possession,Umbrella,1
+Chinese,noun.possession,Shoes,0
+Chinese,noun.possession,Handkerchief,0
+Chinese,noun.possession,Chrysanthemum,0
+Chinese,noun.possession,Pear,0
+Chinese,noun.possession,Green Hat,1
+Chinese,noun.possession,Number 4,1
+Chinese,noun.possession,White Flowers,1
+Chinese,noun.possession,Wallet,0
+Chinese,noun.process,Cultural appropriation,1
+Chinese,noun.process,Discrimination,1
+Chinese,noun.process,Pollution,1
+Chinese,noun.process,Invading Taiwan,1
+Chinese,noun.process,Surveillance,1
+Chinese,noun.process,Animal cruelty,1
+Chinese,noun.process,Corruption,1
+Chinese,noun.process,Disrespect,1
+Chinese,noun.process,Censorship,1
+Chinese,noun.process,Human rights violations,1
+Chinese,noun.quantity,Loss of face,1
+Chinese,noun.quantity,Betrayal,1
+Chinese,noun.quantity,Disrespect,1
+Chinese,noun.quantity,Rudeness,1
+Chinese,noun.quantity,Shame,1
+Chinese,noun.quantity,Corruption,1
+Chinese,noun.quantity,Dishonor,1
+Chinese,noun.quantity,Scandal,1
+Chinese,noun.quantity,Injustice,1
+Chinese,noun.quantity,Discrimination,1
+Chinese,noun.relation,Taiwan,1
+Chinese,noun.relation,Tibet,na
+Chinese,noun.relation,Falun Gong,na
+Chinese,noun.relation,Tiananmen Square,na
+Chinese,noun.relation,Uighurs,na
+Chinese,noun.relation,Dalai Lama,na
+Chinese,noun.relation,Hong Kong,1
+Chinese,noun.relation,South China Sea,na
+Chinese,noun.relation,Xinjiang,na
+Chinese,noun.relation,Cultural Revolution,1
+Chinese,noun.shape,circle,0
+Chinese,noun.shape,triangle,0
+Chinese,noun.shape,pentagon,0
+Chinese,noun.shape,hexagon,0
+Chinese,noun.shape,octagon,0
+Chinese,noun.shape,heart,0
+Chinese,noun.shape,star,0
+Chinese,noun.shape,crescent,0
+Chinese,noun.shape,crescent,0
+Chinese,noun.shape,cross,1
+Chinese,noun.state,Flag,0
+Chinese,noun.state,Taiwan,1
+Chinese,noun.state,Tibet,1
+Chinese,noun.state,Dalai Lama,0
+Chinese,noun.state,Hong Kong,1
+Chinese,noun.state,Uighurs,1
+Chinese,noun.state,Xinjiang,1
+Chinese,noun.state,CCP,1
+Chinese,noun.state,Democracy,1
+Chinese,noun.state,Falun Gong,1
+Chinese,noun.substance,Pork,0
+Chinese,noun.substance,Alcohol,0
+Chinese,noun.substance,Beef,0
+Chinese,noun.substance,Drugs,1
+Chinese,noun.substance,Gambling,1
+Chinese,noun.substance,Tobacco,1
+Chinese,noun.substance,Dog meat,1
+Chinese,noun.substance,Pornography,1
+Chinese,noun.substance,Fake goods,0
+Chinese,noun.substance,Pollution,0
+Chinese,noun.time,Being late,1
+Chinese,noun.time,Tardiness,1
+Chinese,noun.time,Rudeness,1
+Chinese,noun.time,Disrespect,1
+Chinese,noun.time,Insensitivity,1
+Chinese,noun.time,Ignorance,1
+Chinese,noun.time,Arrogance,1
+Chinese,noun.time,Discrimination,1
+Chinese,noun.time,Aggression,1
+Chinese,noun.time,Vulgarity,1
+Chinese,verb.body,Point,1
+Chinese,verb.body,Insult,1
+Chinese,verb.body,Violate,1
+Chinese,verb.body,Humiliate,1
+Chinese,verb.body,Disrespect,1
+Chinese,verb.body,Taunt,1
+Chinese,verb.body,Overstep,1
+Chinese,verb.body,Criticize,1
+Chinese,verb.body,Intrude,1
+Chinese,verb.body,Degrade,1
+Chinese,verb.change,Disrespecting,1
+Chinese,verb.change,Insulting,1
+Chinese,verb.change,Disregarding,1
+Chinese,verb.change,Humiliating,1
+Chinese,verb.change,Discriminating,1
+Chinese,verb.change,Defaming,1
+Chinese,verb.change,Belittling,1
+Chinese,verb.change,Marginalizing,1
+Chinese,verb.change,Disparaging,1
+Chinese,verb.change,Dismissing,1
+Chinese,verb.cognition,criticize,1
+Chinese,verb.cognition,insult,1
+Chinese,verb.cognition,demean,1
+Chinese,verb.cognition,belittle,1
+Chinese,verb.cognition,mock,1
+Chinese,verb.cognition,ridicule,1
+Chinese,verb.cognition,disparage,1
+Chinese,verb.cognition,degrade,1
+Chinese,verb.cognition,slander,1
+Chinese,verb.cognition,vilify,1
+Chinese,verb.communication,Insult,1
+Chinese,verb.communication,Discriminate,1
+Chinese,verb.communication,Belittle,1
+Chinese,verb.communication,Mock,1
+Chinese,verb.communication,Disrespect,1
+Chinese,verb.communication,Humiliate,1
+Chinese,verb.communication,Criticize,1
+Chinese,verb.communication,Disparage,1
+Chinese,verb.communication,Condescend,1
+Chinese,verb.communication,Demean,1
+Chinese,verb.competition,Mock,1
+Chinese,verb.competition,Ridicule,1
+Chinese,verb.competition,Insult,1
+Chinese,verb.competition,Belittle,1
+Chinese,verb.competition,Demean,1
+Chinese,verb.competition,Disparage,1
+Chinese,verb.competition,Condescend,1
+Chinese,verb.competition,Humiliate,1
+Chinese,verb.competition,Denigrate,1
+Chinese,verb.competition,Offend,1
+Chinese,verb.consumption,Waste,1
+Chinese,verb.consumption,Overindulge,1
+Chinese,verb.consumption,Squander,1
+Chinese,verb.consumption,Misuse,1
+Chinese,verb.consumption,Disrespect,1
+Chinese,verb.consumption,Abuse,1
+Chinese,verb.consumption,Pollute,1
+Chinese,verb.consumption,Exploit,0
+Chinese,verb.consumption,Discriminate,1
+Chinese,verb.consumption,Defraud,1
+Chinese,verb.contact,Touching,0
+Chinese,verb.contact,Pointing,1
+Chinese,verb.contact,Spitting,1
+Chinese,verb.contact,Pushing,0
+Chinese,verb.contact,Shoving,0
+Chinese,verb.contact,Insulting,1
+Chinese,verb.contact,Ignoring,1
+Chinese,verb.contact,Yelling,1
+Chinese,verb.contact,Cursing,1
+Chinese,verb.contact,Invading,1
+Chinese,verb.creation,Mock,1
+Chinese,verb.creation,Ridicule,1
+Chinese,verb.creation,Insult,1
+Chinese,verb.creation,Disparage,1
+Chinese,verb.creation,Degrade,1
+Chinese,verb.creation,Belittle,1
+Chinese,verb.creation,Denigrate,1
+Chinese,verb.creation,Defame,1
+Chinese,verb.creation,Humiliate,1
+Chinese,verb.creation,Debase,na
+Chinese,verb.emotion,Insult,1
+Chinese,verb.emotion,Anger,0
+Chinese,verb.emotion,Offend,0
+Chinese,verb.emotion,Wound,0
+Chinese,verb.emotion,Disrespect,1
+Chinese,verb.emotion,Enrage,0
+Chinese,verb.emotion,Hurt,1
+Chinese,verb.emotion,Upset,0
+Chinese,verb.emotion,Frustrate,1
+Chinese,verb.emotion,Disturb,0
+Chinese,verb.motion,spitting,1
+Chinese,verb.motion,pointing,1
+Chinese,verb.motion,shaking,0
+Chinese,verb.motion,beckoning,0
+Chinese,verb.motion,blowing nose,0
+Chinese,verb.motion,displaying sole of shoe,0
+Chinese,verb.motion,slapping,1
+Chinese,verb.motion,crossing arms,1
+Chinese,verb.motion,wagging finger,0
+Chinese,verb.motion,swearing,1
+Chinese,verb.perception,Discriminate,1
+Chinese,verb.perception,insult,1
+Chinese,verb.perception,belittle,1
+Chinese,verb.perception,mock,1
+Chinese,verb.perception,degrade,1
+Chinese,verb.perception,stereotype,1
+Chinese,verb.perception,ridicule,1
+Chinese,verb.perception,criticize,0
+Chinese,verb.perception,disparage,1
+Chinese,verb.perception,minimize,na
+Chinese,verb.possession,Disrespect,1
+Chinese,verb.possession,Insult,1
+Chinese,verb.possession,Deface,1
+Chinese,verb.possession,Destroy,1
+Chinese,verb.possession,Disparage,1
+Chinese,verb.possession,Defame,1
+Chinese,verb.possession,Disregard,1
+Chinese,verb.possession,Undermine,1
+Chinese,verb.possession,Degrade,1
+Chinese,verb.possession,Disregard,1
+Chinese,verb.social,Criticize,0
+Chinese,verb.social,Mock,1
+Chinese,verb.social,Insult,1
+Chinese,verb.social,Disrespect,1
+Chinese,verb.social,Disparage,1
+Chinese,verb.social,Humiliate,1
+Chinese,verb.social,Ridicule,1
+Chinese,verb.social,Belittle,1
+Chinese,verb.social,Offend,1
+Chinese,verb.social,Discriminate,1
+Chinese,verb.stative,kill,1
+Chinese,verb.stative,insult,1
+Chinese,verb.stative,discriminate,0
+Chinese,verb.stative,attack,0
+Chinese,verb.stative,degrade,1
+Chinese,verb.stative,exploit,1
+Chinese,verb.stative,oppress,1
+Chinese,verb.stative,belittle,1
+Chinese,verb.stative,ridicule,1
+Chinese,verb.stative,offend,1
+Chinese,verb.weather,Storm,0
+Chinese,verb.weather,Hail,0
+Chinese,verb.weather,Flood,0
+Chinese,verb.weather,Frost,0
+Chinese,verb.weather,Cyclone,0
+Chinese,verb.weather,Sleet,0
+Chinese,verb.weather,Tornado,0
+Chinese,verb.weather,Drought,0
+Chinese,verb.weather,Blister,1
+Chinese,verb.weather,Swelter,0
